@@ -1,16 +1,9 @@
 # machinelearning
+![211](https://user-images.githubusercontent.com/80472100/167092706-97e99588-aa3c-49df-9d8a-8fd4c62ddce1.png)
 
-A new Flutter project.
+
+A new machineLearning project with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project, machine learning methods have been used to classify dog ​​and cat images. The project is implemented in the Flutter framework. TensorFlow has been used to prepare machine learning models.
